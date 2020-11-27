@@ -22,9 +22,9 @@ authors:
     poltavcev:
       name:           Poltavcev
       site:           https://poltavcev.biz
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Привет, меня зовут Николай, я владелец сервиса Clixby блог которого вы сейчас читаете. Надеюсь вам нравится блог и сервис."
+      email:          poltavtcev@gmail.com
       twitter:        https://twitter.com/poltavtcev
 
     jane:
