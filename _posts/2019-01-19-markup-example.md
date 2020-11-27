@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Markdown Example"
+title:  "Пример Markdown"
 author: poltavcev
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 tags: featured
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
+Вы найдете это сообщение в каталоге `_posts`. Отредактируйте его и заново создайте сайт, чтобы увидеть свои изменения. Вы можете перестроить сайт разными способами, но наиболее распространенным способом является запуск `jekyll serve`, который запускает веб-сервер и автоматически восстанавливает ваш сайт при обновлении файла. Что нибудь.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Чтобы добавить новые сообщения, просто добавьте файл в каталог `_posts`, который следует соглашению` ГГГГ-ММ-ДД-имя-of-post.ext` и включает необходимые материалы. Взгляните на источник этого поста, чтобы понять, как это работает.
 
-Jekyll also offers powerful support for code snippets:
+Jekyll также предлагает мощную поддержку фрагментов кода:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -20,7 +20,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Ознакомьтесь с [Jekyll docs][jekyll-docs] для получения дополнительной информации о том, как максимально эффективно использовать Jekyll. Сообщите обо всех ошибках / запросах функций в [репозиторий Jekyll's GitHub][jekyll-gh]. Если у вас есть вопросы, вы можете задать их на [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
