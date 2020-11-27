@@ -5,6 +5,7 @@ author: poltavcev
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]
+lang: ru
 lang-ref: 11
 ---
 
