@@ -35,16 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      lang: ru
-      base-url: "/"
-      author: sal
+      author: poltavcev
       avatar: /assets/images/avatar1.jpg
-      
-  - scope:
-      path: "en"
-    values:
-      lang: en
-      base-url: "/en/"
       
   # all pages
   - scope:
