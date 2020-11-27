@@ -59,6 +59,10 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+# Localization
+languages: ["ru", "en"]
+exclude_from_localizations: ["javascript", "images", "css"]
+
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
