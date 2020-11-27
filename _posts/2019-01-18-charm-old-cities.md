@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Можем ли мы заново изобрести очарование старых городов"
-author: jane
+author: poltavcev
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]
