@@ -1,7 +1,7 @@
 ---
-title: "Sal"
+title: "Poltavcev"
 layout: default
-permalink: "/author-sal.html"
+permalink: "/author-poltavcev.html"
 ---
 <div class="container">
 <div class="row justify-content-center">
@@ -16,7 +16,7 @@ permalink: "/author-sal.html"
                 <img alt="{{ site.authors.sal.name }}" src="{{site.baseurl}}/{{ site.authors.sal.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
-        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Статьи {{page.title}}</span></h4>
             {% assign posts = site.posts | where:"author","sal" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
