@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "Можем ли мы заново изобрести очарование старых городов"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
