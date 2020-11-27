@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title:  "Что такое Jekyll"
 author: poltavcev
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
