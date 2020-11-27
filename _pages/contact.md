@@ -4,7 +4,7 @@ permalink: "/contact.html"
 ---
 
 <form action="https://formspree.io/f/xjvperyb" method="POST">    
-<p class="mb-4">Пожалуйста, отправьте сообщение {{site.name}}. Мы ответим как можно скорее!</p>
+<p class="mb-4">Пожалуйста, отправьте нам сообщение. Мы ответим как можно скорее!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Имя*" required>
