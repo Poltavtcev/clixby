@@ -1,4 +1,11 @@
-# Контент-маркетинг TikTok: как развивать свой бизнес с TikTok
+---
+layout: post
+title:  "Контент-маркетинг TikTok: как развивать свой бизнес с TikTok"
+author: poltavcev
+categories: [Перевод ]
+image: assets/images/home.jpg
+tags: [TikTok]
+---
 
 Хотите развивать свой бизнес с помощью TikTok, но не знаете с чего начать?
 
