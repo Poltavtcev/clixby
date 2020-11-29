@@ -1,8 +1,8 @@
 # Tags
 collections:
-  tag:
+  mtag:
     output: true
-    permalink: /tag/:name/
+    permalink: /mtag/:name/
     
 # Site
 name: 'Блог Clixby'
