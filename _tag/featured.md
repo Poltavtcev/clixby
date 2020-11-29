@@ -1,6 +1,4 @@
 ---
-layout: tag
-title:  "Всё о Jekyll"
+slug: featured
+name: Featured
 ---
-
-[Jekyll](https://jekyllrb.com/) - генератор статических сайтов.

@@ -1,3 +1,9 @@
+# Tags
+collections:
+  tag:
+    output: true
+    permalink: /tag/:name/
+    
 # Site
 name: 'Блог Clixby'
 description: 'Блог проекта Clixby'
@@ -10,12 +16,6 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 include: ["_pages"]
 permalink: /:title/
-
-# Tags
-collections:
-  tag:
-    output: true
-    permalink: /tag/:name/
 
 # Plugins
 plugins: 
