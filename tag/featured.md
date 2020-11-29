@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: featured"
+title: "Тег: featured"
 tag: featured
 ---

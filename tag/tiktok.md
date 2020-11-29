@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: tiktok"
+title: "Тег: tiktok"
 tag: tiktok
 ---
