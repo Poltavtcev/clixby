@@ -1,9 +1,3 @@
-# Tags
-collections:
-  mtag:
-    output: true
-    permalink: /mtag/:name/
-    
 # Site
 name: 'Блог Clixby'
 description: 'Блог проекта Clixby'
