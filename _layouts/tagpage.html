@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<div class="post">
-<h1 class="tag-title">Tag: {{ page.tag }}</h1>
+<div class="container">
+<h3 class="font-weight-bold spanborder"><span>Тег: {{ page.tag }}</span></h3>
+<div class="page-content">
 <ul>
 {% for post in site.tags[page.tag] %}
   {% if post.lang %}
@@ -18,5 +19,4 @@ layout: default
 {% endfor %}
 </ul>
 </div>
-
-<hr>
+</div>
