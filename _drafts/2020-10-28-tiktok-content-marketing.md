@@ -110,4 +110,4 @@ image: assets/images/tiktok-content-marketing.jpg
 
 Большинство сообщений в direct было такого содержания: «Привет, я смотрел видео. Как вы можете помочь мне получить в моем бизнесе 10 000 долларов?» Затем Кинья использовала копировать/вставить для отправки ответов по сценарию (хранящихся в блокноте на ее устройстве), которые помогли начать деловые переговоры и в конечном счёте привели к добавлению сотен людей в ее список рассылки.
 
-*Перевод статьи [TikTok Content Marketing: How to Grow Your Business With TikTok](https://www.socialmediaexaminer.com/tiktok-content-marketing-how-to-grow-your-business-with-tiktok-keenya-kelly)
+*Перевод статьи [TikTok Content Marketing: How to Grow Your Business With TikTok](https://www.socialmediaexaminer.com/tiktok-content-marketing-how-to-grow-your-business-with-tiktok-keenya-kelly)*
