@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Контент-маркетинг TikTok: как развивать свой бизнес с TikTok"
+title: 'Контент-маркетинг TikTok: как развивать свой бизнес с TikTok'
 author: poltavcev
-categories: [Перевод ]
+categories: [Перевод]
 image: assets/images/home.jpg
-tags: [TikTok]
 ---
 
 Хотите развивать свой бизнес с помощью TikTok, но не знаете с чего начать?
 
 Эта статья основана на интервью с Киньи Келли — экспертом по брендингу и видеомаркетингу, которая помогает предпринимателям развивать свой бизнес в Интернете. Она автор книги «Прежде чем бросить работу: стратегическое руководство для предпринимателей» и ведущая подкаста.
 
-В этой статье вы узнаете о четырех различных типах контента TikTok и о том, как их можно использовать для достижения своих маркетинговых целей, о том, какой длины должны быть ваши ролики и как Кинья заставляет людей в TikTok писать ей в direct или подписываться на её рассылку.
+В этой статье вы узнаете о четырех различных типах контента TikTok и о том, как их можно использовать для достижения своих маркетинговых целей, какой длины должны быть ваши ролики и как Кинья заставляет людей в TikTok писать ей в direct или подписываться на её рассылку.
 
 Опыт Киньи в бизнесе начался с сетевого маркетинга, когда она начала учить других, как строить бизнес, проводить презентации, нанимать людей и продавать продукты и услуги. Она быстро поняла, что мыслит образами, и когда разговаривает с кем-то, она мысленно выстраивает бизнес-план и план брендинга, который тут же может описать.
 
@@ -58,7 +57,7 @@ tags: [TikTok]
 
 <p><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@keenyakelly0/video/6899815348409781510" data-video-id="6899815348409781510" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@keenyakelly0" href="https://www.tiktok.com/@keenyakelly0">@keenyakelly0</a> <p>Aren’t you that lady teaching people how to get to $10,000 a month? <a title="startabusinessonline" target="_blank" href="https://www.tiktok.com/tag/startabusinessonline">##startabusinessonline</a> <a title="startabusinesscheck" target="_blank" href="https://www.tiktok.com/tag/startabusinesscheck">##startabusinesscheck</a> <a title="newbusinessventure" target="_blank" href="https://www.tiktok.com/tag/newbusinessventure">##newbusinessventure</a> <a title="newbizidea" target="_blank" href="https://www.tiktok.com/tag/newbizidea">##newbizidea</a> <a title="newbiz" target="_blank" href="https://www.tiktok.com/tag/newbiz">##newbiz</a></p> <a target="_blank" title="♬ Easiest dance on TikTok - My Guy" href="https://www.tiktok.com/music/Easiest-dance-on-TikTok-6880287309334317829">♬ Easiest dance on TikTok - My Guy</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script></p>
 
-Когда она выходила в кадр, на нём был текст: «Разве ты не та женщина, что учит людей, как зарабатывать 10 000 долларов в месяц?» Когда она улыбнулась, текст изменился на «Да, это я. Напиши мне в direct». Затем она показала знак ✌️ и ушла за пределы экрана.
+Когда она выходила в кадр, на нём был текст: «Разве ты не та женщина, что учит людей, как зарабатывать 10 000 долларов в месяц?» Когда она улыбнулась, текст изменился на «Да, это я. Напиши мне в direct». Затем она показала знак :v: и ушла за пределы экрана.
 
 **Совет от профессионалов:** когда вы создаете контент-подражатель, важно использовать оригинальную аудио дорожку, чтобы подхватить волну вовлеченности и охвата. В правом нижнем углу видео, которое вы собираетесь скопировать, нажмите на кружок с лицом в нем. На следующем экране нажмите красную кнопку Использовать этот звук.
 
@@ -112,4 +111,4 @@ tags: [TikTok]
 
 Большинство сообщений в direct было такого содержания: «Привет, я смотрел видео. Как вы можете помочь мне получить в моем бизнесе 10 000 долларов?» Затем Кинья использовала копировать/вставить для отправки ответов по сценарию (хранящихся в блокноте на ее устройстве), которые помогли начать деловые переговоры и в конечном счёте привели к добавлению сотен людей в ее список рассылки.
 
-*Перевод статьи https://www.socialmediaexaminer.com/tiktok-content-marketing-how-to-grow-your-business-with-tiktok-keenya-kelly/* 
+*Перевод статьи https://www.socialmediaexaminer.com/tiktok-content-marketing-how-to-grow-your-business-with-tiktok-keenya-kelly/*
