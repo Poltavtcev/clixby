@@ -1,4 +1,4 @@
 ---
-tag: update
+tag: Обновления
 permalink: "/category/update"
 ---
