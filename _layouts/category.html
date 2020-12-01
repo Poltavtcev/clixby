@@ -1,5 +1,4 @@
 ---
-title: "Категория: {{ page.category }}"
 layout: default
 type: archive
 ---
@@ -7,7 +6,7 @@ type: archive
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-	        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ page.category | downcase }}"><span>Категория: {{ page.category }}</span></h4>
+	        <h4 class="font-weight-bold spanborder text-capitalize"><span>Категория: {{ page.category }}</span></h4>
 			{% if site.categories[page.category] %}
 			<div class="group-year">
 			    {% for post in site.categories[page.category] %}
@@ -16,19 +15,15 @@ type: archive
 			        {% assign year = this_year %}
 			        <p>{{ year }}</p>
 			      {% endunless %}
-			      <article>
-			        {% include main-loop-card.html %}
-			      </article>
+			      {% include main-loop-card.html %}
 			    {% endfor %}
-			</div>
-				{% else %}
-				  <p>There are no posts in this category.</p>
-				{% endif %}
+			  </div>
+			{% else %}
+			  <p>There are no posts in this category.</p>
+			{% endif %}
 		</div>
-	</div>
-    
-    <div class="col-md-4">
-    {% include sidebar-featured.html %}    
-	</div>
-    
+        <div class="col-md-4">
+        {% include sidebar-featured.html %}    
+   		</div>
+    </div>
 </div>
