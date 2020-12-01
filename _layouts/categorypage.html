@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] | downcase }}"><span>Тег: {{ page.tag }}</span></h4>
+            
+		<ul>
+		{% for post in site.tags[page.tag] %}
+		  	{% include main-loop-card.html %}
+		{% endfor %}
+		</ul>
+
+        </div>
+        
+            <div class="col-md-4">
+        {% include sidebar-featured.html %}    
+    </div>
+        
+    </div>
+</div>
