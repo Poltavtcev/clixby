@@ -14,6 +14,7 @@
 		</span>
 	</small>
 	<small class="text-muted">
+		{% include date.html date=page.date %}
 		{{ post.date | date: '%b %d, %Y' }}
 	</small>
 </div>
