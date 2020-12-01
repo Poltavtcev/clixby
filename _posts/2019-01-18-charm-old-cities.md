@@ -3,6 +3,7 @@ layout: post
 title: Можем ли мы заново изобрести очарование старых городов
 author: poltavcev
 image: assets/images/home.jpg
+tag: [Jekyll, tutorial]
 category: [Jekyll, tutorial]
 categories: [Jekyll, tutorial]
 ---
