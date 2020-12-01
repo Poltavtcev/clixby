@@ -6,6 +6,7 @@ image: assets/images/home.jpg
 
 categories: 
     - "update"
+    - "обновления"
     - "aws"
 ---
 
