@@ -5,7 +5,7 @@ layout: default
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] | downcase }}"><span>Тег: {{ page.tag }}</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] | downcase }}"><span>Категория: {{ page.tag }}</span></h4>
             
 		<ul>
 		{% for post in site.tags[page.tag] %}
