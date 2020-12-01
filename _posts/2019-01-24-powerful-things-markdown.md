@@ -5,7 +5,7 @@ permalink: "/debugging-docker-containers-on-elastic-beanstalk"
 layout: "post" 
 
 categories: 
-    - "обновления"
+    - "update"
     - "aws"
 ---
 There are lots of powerful things you can do with the Markdown editor

@@ -5,7 +5,7 @@ author: poltavcev
 image: assets/images/home.jpg
 
 categories: 
-    - "обновления"
+    - "update"
     - "aws"
 ---
 
