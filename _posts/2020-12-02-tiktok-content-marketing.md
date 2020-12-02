@@ -3,7 +3,7 @@ layout: post
 title: 'Контент-маркетинг TikTok: как развивать свой бизнес с TikTok'
 author: poltavcev
 image: assets/images/tiktok-content-marketing.jpg
-tags: tiktok
+tags: tiktok featured
 categories: 
     - "Продвижение"
 ---
@@ -115,4 +115,4 @@ categories:
 
 Вы, также можете использовать страницу созданную в нашем сервисе, чтобы направлять зрителей в вашу автоматическую воронку.  Вместо того, чтобы вручную отвечать на каждое сообщение.  Это здорово поможет сэкономить время. Если ещё не зарегистрированы - [зарегистрируйтесь сейчас.](https://mrlnk.ru/register){:target="_blank"}
 
-*Перевод статьи [TikTok Content Marketing: How to Grow Your Business With TikTok](https://www.socialmediaexaminer.com/tiktok-content-marketing-how-to-grow-your-business-with-tiktok-keenya-kelly){:target="_blank"}*
+*Перевод статьи [TikTok Content Marketing: How to Grow Your Business With TikTok](https://www.socialmediaexaminer.com/tiktok-content-marketing-how-to-grow-your-business-with-tiktok-keenya-kelly){:target="_blank" rel="nofollow"}*
