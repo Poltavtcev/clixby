@@ -15,7 +15,6 @@
 	</small>
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
-		<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% include translated_date.html date=page.date format=site.date_format %}</time></p>
 	</small>
 </div>
 {% if post.image %}
