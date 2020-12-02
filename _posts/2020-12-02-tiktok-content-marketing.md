@@ -3,7 +3,7 @@ layout: post
 title: 'Контент-маркетинг TikTok: как развивать свой бизнес с TikTok'
 author: poltavcev
 image: assets/images/tiktok-content-marketing.jpg
-tags: tiktok featured
+tags: tiktok featured sticky
 categories: 
     - "Продвижение"
 ---
