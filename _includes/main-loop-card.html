@@ -15,7 +15,7 @@
 	</small>
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
-		<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% include translated_date.html date=page.date format=site.date_format %}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+		<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% include translated_date.html date=page.date format=site.date_format %}</time></p>
 	</small>
 </div>
 {% if post.image %}
